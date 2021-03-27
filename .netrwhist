@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
-let g:netrw_dirhist_4='/home/balint/Projects/hps-monorepo/packages/ui/src/pages'
-let g:netrw_dirhist_3='/home/balint/.config/nvim'
-let g:netrw_dirhist_2='/home/balint/Projects/hps-monorepo/packages/ui/public'
-let g:netrw_dirhist_1='/home/balint/Dokumentumok/szig-eco/src/components/contact-form'
